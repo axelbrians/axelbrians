@@ -1,4 +1,4 @@
-### Hi there, I'm Daffa 👋
+### Hi there, I'm Axel 👋
 
 I am Axel Briano Suherik. I am an undergraduate student of **Informatics ITS**. My main interest is Web and Mobile Development.
 
