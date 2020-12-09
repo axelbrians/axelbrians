@@ -8,7 +8,8 @@ I am Axel Briano Suherik. I am an undergraduate student of **Informatics ITS**. 
     - [📧 E-Mail](mailto:axelbrians@gmail.com)
 
 ## GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelbrians&hide_border=true&layout=compact&theme=tokyo-night&hide=html,css" />
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelbrians&hide_border=true&layout=compact&theme=tokyo-night&hide=html,css" />
   <img src="https://github-readme-stats.vercel.app/api?username=axelbrians&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyo-night">
-</p>
+  
+</div>
