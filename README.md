@@ -2,7 +2,7 @@
 
 I am Axel Briano Suherik. I am an undergraduate student of **Informatics ITS**. My main interest is Web and Mobile Development.
 
-- 🌱 I’m currently learning on **React, Kotlin for Android, PHP and Laravel**...
+- 🌱 I’m currently learning on **Kotlin**
 - 📫 You can reach me via:
     - [📘 Linkedin](https://www.linkedin.com/in/axel-brians/)
     - [📧 E-Mail](mailto:axelbrians@gmail.com)
