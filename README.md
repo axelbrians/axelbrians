@@ -7,6 +7,8 @@ I am Axel Briano Suherik. I am an undergraduate student of **Informatics ITS**. 
     - [📘 Linkedin](https://www.linkedin.com/in/axel-brians/)
     - [📧 E-Mail](mailto:axelbrians@gmail.com)
 
+[![Visits Badge](https://badges.pufler.dev/visits/axelbrians/axelbrians)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/axelbrians)](https://badges.pufler.dev)
 ## GitHub Stats
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=axelbrians&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
@@ -15,3 +17,8 @@ I am Axel Briano Suherik. I am an undergraduate student of **Informatics ITS**. 
 
 ## Wakatime
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axelbrians&theme=tokyonight)](https://github.com/axelbrians/github-readme-stats)
+</br>
+
+
+## Now Listening
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=axelbrians)
