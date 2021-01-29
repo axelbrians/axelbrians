@@ -15,6 +15,3 @@ I am Axel Briano Suherik. I am an undergraduate student of **Informatics ITS**. 
 
 ## Wakatime
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axelbrians&theme=tokyonight)](https://github.com/axelbrians/github-readme-stats)
-
-## Now Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/axelbrians)
