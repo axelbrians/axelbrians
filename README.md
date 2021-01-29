@@ -20,5 +20,5 @@ I am Axel Briano Suherik. I am an undergraduate student of **Informatics ITS**. 
 </br>
 
 
-## Now Listening
+## Recent
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=axelbrians)
