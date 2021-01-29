@@ -12,9 +12,12 @@ I am Axel Briano Suherik. I am an undergraduate student of **Informatics ITS**. 
 ## GitHub Stats
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=axelbrians&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelbrians&hide_border=true&hide=html,css,blade&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelbrians&hide_border=true&hide=html,css,blade,php&theme=tokyonight" />
 </div>
-    
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axelbrians&theme=tokyonight)]
-    
+
+## Wakatime Stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axelbrians&theme=tokyonight)](https://github.com/kittinan/spotify-github-profile)
+
+
+## Now Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=axelbrians&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
