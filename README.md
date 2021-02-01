@@ -9,22 +9,6 @@ I am Axel Briano Suherik. I am an undergraduate student of **Informatics ITS**. 
     
 ![](https://komarev.com/ghpvc/?username=axelbrians&style=flat&color=brightgreen)
 [![Repos Badge](https://badges.pufler.dev/repos/axelbrians)](https://badges.pufler.dev)
-    
-## Social Media
-<p>
-    <a href="https://www.instagram.com/axelbrian_s">
-        <img align="left" alt="Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
-    </a>
-    <a href="https://stackoverflow.com/users/12030603/justrprt">
-        <img align="left" alt="StackOverflow" width="48px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />
-    </a>
-    <a href="https://www.quora.com/profile/Axel-Briano">
-        <img align="left" alt="Quora" width="42px" src="https://cdn2.iconfinder.com/data/icons/Quora-Icons/256/Q-2.png" />
-    </a>
-</p>
-<br/>
-<br/>
-
 
 ## Languages and Tools
 <p align="left"> 
@@ -49,9 +33,10 @@ I am Axel Briano Suherik. I am an undergraduate student of **Informatics ITS**. 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelbrians&hide_border=true&hide=css,php,blade,html&theme=tokyonight&langs_count=7&layout=compact" />
 </div>
 
-## Wakatime Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axelbrians&theme=tokyonight&hide_title=true)](https://github.com/kittinan/spotify-github-profile)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axelbrians&theme=tokyonight)](https://github.com/kittinan/spotify-github-profile)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axelbrians&theme=dark" alt="axelbrians" /></p>
 
-## Now Playing
+## Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=axelbrians&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
