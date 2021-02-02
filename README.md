@@ -6,7 +6,8 @@ I am Axel Briano Suherik. I am an undergraduate student of **Informatics ITS**. 
 - 📫 You can reach me via:
     - [📘 Linkedin](https://www.linkedin.com/in/axel-brians/)
     - [📧 E-Mail](mailto:axelbrians@gmail.com)
-    
+
+
 ![](https://komarev.com/ghpvc/?username=axelbrians&style=flat&color=brightgreen)
 [![Repos Badge](https://badges.pufler.dev/repos/axelbrians)](https://badges.pufler.dev)
 
@@ -28,13 +29,15 @@ I am Axel Briano Suherik. I am an undergraduate student of **Informatics ITS**. 
 </p>
 
 ## GitHub Stats
-<div style="display: flex; flex-direction: row; align-items: flex-start;">
+<p align="start">
     <img src="https://github-readme-stats.vercel.app/api?username=axelbrians&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelbrians&hide_border=true&hide=css,php,blade,html&theme=tokyonight&langs_count=7" />
-</div>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=axelbrians&theme=tokyonight&hide_border=true" />
+</p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axelbrians&theme=tokyonight)](https://github.com/kittinan/spotify-github-profile)
 
-## Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=axelbrians&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
+<br/>
+<br/>
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=axelbrians&cover_image=false&theme=default" />
+</p>
