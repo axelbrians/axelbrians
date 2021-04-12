@@ -32,7 +32,7 @@ I am Axel Briano Suherik. I am an undergraduate student of **Informatics ITS**. 
 ## GitHub Stats
 <p align="start">
     <img src="https://github-readme-stats.vercel.app/api?username=axelbrians&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelbrians&hide_border=true&hide=css,php,blade,html&theme=tokyonight&langs_count=7" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelbrians&hide_border=true&hide=css,php,blade,html,java&theme=tokyonight&langs_count=7" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=axelbrians&theme=tokyonight&hide_border=true" />
 </p>
 
