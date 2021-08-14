@@ -33,6 +33,6 @@ Currently learning on **Android Dev (Kotlin), Flutter, Node.js**
 
 <br/>
 <br/>
-<p align="center">
+<!-- <p align="center">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=axelbrians&cover_image=false&theme=default" />
-</p>
+</p> -->
