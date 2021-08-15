@@ -27,7 +27,7 @@ Currently learning on **Android Dev (Kotlin), Flutter, Node.js**
 <p align="start">
     <img src="https://github-readme-stats.vercel.app/api?username=axelbrians&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelbrians&hide_border=true&hide=css,php,blade,html,java&theme=tokyonight&langs_count=3" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=axelbrians&theme=tokyonight&hide_border=true" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=axelbrians&theme=tokyonight&hide_border=true" /> -->
 </p>
 
 
