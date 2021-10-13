@@ -1,7 +1,7 @@
 ### Hi there, I'm Axel 👋
 
 I am Axel Briano Suherik. I am an undergraduate student of **Informatics ITS**. My main interest is Mobile Development.
-Currently learning on **Android Dev (Kotlin), Flutter, Node.js**
+Currently learning on **Android Dev (Kotlin + Jetpack Compose), Node.js, Typescript**
 
 
 ![](https://komarev.com/ghpvc/?username=axelbrians&style=flat&color=brightgreen)
