@@ -1,7 +1,7 @@
 ### Hi there, I'm Axel 👋
 
 Android dev enthusiast.
-Currently learning on **Android Dev (Kotlin + Jetpack Compose), Flutter**
+Working proffesionally as Android Engineer **Android Dev (Kotlin + Jetpack Compose + KMP)**
 
 
 ![](https://komarev.com/ghpvc/?username=axelbrians&style=flat&color=brightgreen)
